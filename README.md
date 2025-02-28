@@ -2,4 +2,3 @@
 
 Aku ingin membuat game dengan genre fighting
 
-
